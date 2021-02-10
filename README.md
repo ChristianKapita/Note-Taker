@@ -20,7 +20,7 @@ Steps to install application:
 3. run node Server.js in your CLI
 4. Type http://localhost:3000 in you browser.
 
-The app Note Taker is live on <a><img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white/></a>
+The app Note Taker is live on <a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 ```
 git clone git@github.com:ChristianKapita/SE-Team-Generator.git
